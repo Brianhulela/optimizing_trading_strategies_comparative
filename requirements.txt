@@ -1,0 +1,7 @@
+yfinance
+matplotlib
+pandas
+seaborn
+tqdm
+bayesian-optimization
+deap
